@@ -1,0 +1,23 @@
+[2025-04-23 22:21:11] Me: hello❤️
+[2025-04-23 22:21:17] Client: nupur [22:21]: hii
+[2025-04-23 22:21:28] Client: nupur [22:21]: how are you
+[2025-04-23 22:21:44] Me: i am good what about you
+[2025-04-23 22:22:03] Client: nupur [22:22]: i am good too
+[2025-04-23 22:22:10] Client: nupur has left the chat.
+[2025-04-23 22:31:46] Client: n has left the chat.
+[2025-04-23 22:35:08] Me: gh
+[2025-04-23 22:40:22] Me: i am the server
+[2025-04-23 22:40:31] Client: n [22:40]: i am the client
+[2025-04-23 22:40:44] Client: n [22:40]: ❤️
+[2025-04-23 22:40:52] Me: 😂
+[2025-04-23 22:42:54] Client: n [22:42]: dm
+[2025-04-23 22:43:04] Me: jkl
+[2025-04-23 22:43:14] Client: n has left the chat.
+[2025-04-23 23:41:00] Client: cl1 [23:41]: hii
+[2025-04-23 23:41:11] Me: hello
+[2025-04-23 23:41:29] Me: how are you
+[2025-04-23 23:42:18] Client: cl1 [23:42]: i am good👍
+[2025-04-23 23:42:27] Client: cl1 [23:42]: how are you ??
+[2025-04-23 23:42:40] Me: I am also good
+[2025-04-23 23:43:07] Client: cl1 [23:43]: all this chat will be stored in history file
+[2025-04-23 23:50:09] Client: cl1 has left the chat.
